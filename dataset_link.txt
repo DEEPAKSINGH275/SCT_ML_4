@@ -1,0 +1,16 @@
+Hand Gesture Recognition Dataset
+
+Dataset Name:
+LeapGestRecog
+
+Source:
+Kaggle
+
+Dataset URL:
+https://www.kaggle.com/datasets/gti-upm/leapgestrecog
+
+Description:
+The LeapGestRecog dataset contains approximately 20,000 RGB images of 10 different hand gestures collected from 10 subjects. It is used for training and evaluating hand gesture recognition models.
+
+Note:
+The dataset is not included in this repository because of its large size (~2.1 GB). Please download it from the Kaggle link above and extract it before running the notebook.
