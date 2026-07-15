@@ -183,7 +183,6 @@ Hand_Gesture_Recognition/
 ├── Loss.png
 ├── Confusion_Matrix.png
 ├── Sample_Predictions.png
-└── Saved_Model/
 ```
 
 ---
